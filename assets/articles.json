@@ -1,0 +1,17 @@
+[{
+	"id":"1",
+	"date": "24/7/2017",
+    "title":"Nuevo Content Manager System (CMS) en Angular 4",
+    "category":"Web Development",
+    "tags":"Dev",
+    "content":"This is a new fancy CMS built in Angular 4 and Node Js by Nicolás Hardmeier. It let you log in into the back office panel and post new articles, upload new images, manage users and settings.",
+    "image":"../assets/img/article1_img.jpg"},
+    {
+	"id":"2",
+	"date": "14/7/2017",
+    "title":"This is my second post about it",
+    "category":"Repost",
+    "tags":"Angular",
+    "content":"You should check this, is really an awesome tool that simpify CMS structure to the maximum.",
+    "image":"../assets/img/article2_img.jpg"
+	}]
